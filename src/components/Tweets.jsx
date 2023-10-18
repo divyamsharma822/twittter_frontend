@@ -29,7 +29,7 @@ const Tweets = ({image , comments, text , time  ,name ,user ,likes }) => {
         </div>
 
         <div className='flex '>
-          <h2 className=' text-xs  text-gray-400 font-medium'> 16 minutes ago</h2>
+          <h2 className=' text-xs  text-gray-400 font-medium'> 30 minutes ago</h2>
         </div>
 
         <div className=' flex flex-col items-start'>
